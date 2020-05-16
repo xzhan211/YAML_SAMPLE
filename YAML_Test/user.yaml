@@ -1,0 +1,12 @@
+# Details of a user
+---
+name: Xiaoyang Zhang
+age: 30
+address:
+  line1: 3119 Burris Road
+  line2: Apt. 74
+  city: Vestal
+  zip: 13850
+roles:
+  - Engineer
+  - Student
